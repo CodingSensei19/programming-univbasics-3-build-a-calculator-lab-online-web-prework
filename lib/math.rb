@@ -30,6 +30,6 @@ end
 
 def square_root(num)
   puts "hi"
-  num (5)
+  num
 
 end
