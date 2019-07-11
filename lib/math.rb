@@ -28,8 +28,8 @@ def modulo(num1, num2)
 
 end
 
-def square_root(num)(5)
+def square_root(num)
   puts "hi"
-  num
+  num 5
 
 end
